@@ -1,0 +1,8 @@
+*.html
+.project
+humans.txt
+robots.txt
+.sass-cache
+*.class
+*.pyc
+*.pyo
