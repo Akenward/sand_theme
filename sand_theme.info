@@ -3,6 +3,10 @@ description = This is a sub-theme of theme Bartik, to illustrate forms on the fl
 core = 7.x
 base theme = bartik
 
+scripts[] = jquery.ui.core.min.js
+scripts[] = jquery.ba-bbq.js
+scripts[] = overlay-parent.js
+
 regions[header] = Header
 regions[help] = Help
 regions[page_top] = Page top
